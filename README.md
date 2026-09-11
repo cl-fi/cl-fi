@@ -1,8 +1,8 @@
 # Hey, I'm Chenjie 👋
 
-**DeFi builder on Sui** — shipping end to end: product design → Move smart contracts → TypeScript frontend.
+**Building decentralized finance.**
 
-> **Rebuilding finance, on-chain.**
+Product manager and full-stack developer building across Sui and EVM, from product design to Move and Solidity smart contracts and TypeScript frontends.
 
 ## Experience
 
@@ -23,9 +23,7 @@ Worked across product management and full-stack development at Arttoo, a fine-ar
 
 ## Toolbox
 
-`Sui Move` · `TypeScript` · `Next.js / React` · `@mysten/dapp-kit` · `PTBs` · `DeepBook` · `NAVI` · `Scallop` · `Walrus` · `AI agents`
-
-Mostly building on Sui today — with an eye on wherever good DeFi goes next.
+`Sui Move` · `Solidity` · `EVM` · `TypeScript` · `Next.js / React` · `@mysten/dapp-kit` · `PTBs` · `DeepBook` · `NAVI` · `Scallop` · `Walrus` · `AI agents`
 
 ## Find me
 
