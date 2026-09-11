@@ -4,6 +4,14 @@
 
 > **Rebuilding finance, on-chain.**
 
+## Experience
+
+### [Arttoo](https://x.com/arttoo_official)
+
+**Product Manager & Full-Stack Developer** · October 2024 – March 2026
+
+Worked across product management and full-stack development at Arttoo, a fine-art tokenization project on Sui.
+
 ## Featured work
 
 | Project | What it is |
